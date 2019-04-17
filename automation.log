@@ -1,0 +1,22 @@
+04/14/2019 01:30:32 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+04/14/2019 01:30:32 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+04/14/2019 01:30:35 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+04/14/2019 01:30:35 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+04/14/2019 01:30:35 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+04/14/2019 01:30:35 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+04/14/2019 01:30:35 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+04/14/2019 01:30:37 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+04/14/2019 01:30:37 PM - CheckStatus - INFO: ### VERIFICATION SUCCESSFUL :: +  Login is unsuccessfull
+04/14/2019 01:30:40 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+04/14/2019 01:30:40 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+04/14/2019 01:30:40 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+04/14/2019 01:30:40 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+04/14/2019 01:30:40 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+04/14/2019 01:30:40 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+04/14/2019 01:30:40 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+04/14/2019 01:30:42 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+04/14/2019 01:30:42 PM - CheckStatus - ERROR: ### VERIFICATION FAILED :: + Title is incorrect
+04/14/2019 01:30:42 PM - LoginPage - INFO: Element found with locator: //*[@id='navbar']//span[text()='Test User'] and  locatorType: xpath
+04/14/2019 01:30:42 PM - LoginPage - INFO: Element Found
+04/14/2019 01:30:42 PM - CheckStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Some problem with test_Valid Login
+04/14/2019 01:30:42 PM - CheckStatus - ERROR: test_ValidLogin #### Test case FAILED ###
